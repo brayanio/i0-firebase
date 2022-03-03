@@ -4,7 +4,5 @@ Steps to run (inside the dev folder):
 * i0 install
 * i0 run
 
-Other commands:
-
+(build + run)
 * i0 refresh
-- (build + run)
