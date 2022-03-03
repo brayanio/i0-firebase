@@ -1,4 +1,4 @@
-Steps to run:
+Steps to run (inside the dev folder):
 
 * i0 build 
 * i0 install
